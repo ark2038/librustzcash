@@ -18,7 +18,7 @@ libc = "0.2"
 pairing = "0.14.2"
 lazy_static = "1.2.0"
 bellman = "0.1"
-byteorder = "1"
+byteorder = "1.2.2"
 rand = "0.4"
 
 [dependencies.blake2-rfc]
