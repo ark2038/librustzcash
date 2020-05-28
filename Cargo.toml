@@ -35,5 +35,5 @@ rev = "176470ef41583b5bd0bd749bd1b61d417aa8ec79"
 
 [profile.release]
 #lto = true
-panic = 'abort'
+#panic = 'abort'
 codegen-units = 1
