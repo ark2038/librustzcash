@@ -1,6 +1,6 @@
 # librustzcash
 
-This repository contains librustzcash, a static library for Zcash code assets written in Rust.
+This repository contains librustzcash, a static library for Zcash code assets written in Rust
 
 ## License
 
